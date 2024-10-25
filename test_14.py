@@ -1,5 +1,6 @@
 import unittest
 from lab14 import MinHeap, insert, heapify_down, extract_min
+#, extract_min
 
 class TestMinHeap(unittest.TestCase):
     def test_heapify_up(self):
